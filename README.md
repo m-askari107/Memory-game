@@ -1,2 +1,2 @@
 # Memory-game
-This game is designed for your entertainment 
+## This game is designed for your entertainment :)
